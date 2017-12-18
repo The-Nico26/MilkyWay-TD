@@ -1,0 +1,10 @@
+#idImage;Name;Life;Vitesse(1 rapide -> 50 lent);Spawn (temps entre chaque spawn);Damage;Argent;Score
+0;Infantry;6;10;20;1;5;20
+1;artilleryman;15;8;50;1;10;30
+2;sergeant;20;15;60;1;20;50
+3;tank;30;25;100;2;30;70
+4;George Hiller;100;8;600;3;100;200
+5;ghost soldier;10;8;50;1;5;40
+6;Ghoul Soldier;15;13;60;1;5;60
+7;Secret Agent;17;8;100;2;30;70
+8;Edi Gathegi;70;5;800;3;90;250

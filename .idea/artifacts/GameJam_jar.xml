@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GameJam:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GameJam_jar</output-path>
+    <root id="archive" name="GameJam.jar">
+      <element id="module-output" name="GameJam" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jl1.0.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
